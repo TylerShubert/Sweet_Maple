@@ -7,4 +7,6 @@ Both a basic 7 line Python application, and a streamlit based interface included
 the streamlit app demo is also pubiicly avalivle on the streamlit websight to demo :  " https://bgremoval.streamlit.app/ "
 
 
-**Just for fun** not using openCV
+**Just for fun**   not using openCV
+
+Video screenshot was taken from : https://www.youtube.com/watch?v=yR5E_e7mlvU
